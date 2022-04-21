@@ -17,7 +17,7 @@ Effective 360° imaging requires a very high resolution because the field of vie
 
 ## Dataset
 This dataset is for research purposes only and is not for commercial use.  
-If you need the YouTube360 data, please contact us. We will share the download link.
+If you need the YouTube360 dataset, please contact us. We will share the download link.
 
 ## Citation
 If you find the dataset helpful in your resarch or work, please cite the following paper.
